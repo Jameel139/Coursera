@@ -1,0 +1,43 @@
+p{
+
+	margin: 10px;
+	padding-top: 20px
+}
+
+#par {
+
+	background-color: gray;
+	padding: 0px;
+	border: 5px solid black;
+	margin: 10px;
+	width: 300px;
+}
+
+
+
+h3 {
+
+	
+	padding: 1px;
+	border: 1px solid black;
+	margin: 0px;
+	width: 100px;
+	float: right;
+	text-align: center;
+	position: relative;
+}
+
+#head1 {
+
+	background-color: red;
+}
+
+#head2 {
+
+	background-color: green;
+}
+
+#head3 {
+
+	background-color: yellow;
+}
